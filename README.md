@@ -8,7 +8,7 @@ This project is a starting point for a Flutter application.
 
 ## Get Model?
 
-simple and easy, go to website "https://teachablemachine.withgoogle.com/train", after that replace "Class {n}" tp your object name. then training, finally download model.
+simple and easy, go to website "https://teachablemachine.withgoogle.com/train", then chosse "Image Project", then replace "Class {n}" tp your object name, then training, them download model, finally copy paste your model to folder assets.
 
 ## Problem or Bugs in this project?
 
