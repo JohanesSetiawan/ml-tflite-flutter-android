@@ -18,7 +18,7 @@ simple and easy, go to website "https://teachablemachine.withgoogle.com/train", 
 
 ## Got new learning in this project?
 
-YES, i thought flutter can run ML/AI, turns out when I tried it, it worked.
+YES, i thought flutter can't run ML/AI, turns out when I tried it, it worked.
 
 ## Conclusion?
 
