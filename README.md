@@ -23,3 +23,6 @@ YES, i thought flutter can run ML/AI, turns out when I tried it, it worked.
 ## Conclusion?
 
 damn, i'm full stressing for debugging and replacing many code, and yeah this project is finally done.
+
+## uiuhsau8dhauisahuid  <= ignore this, effect for stressing :)
+damn, forget to delete linux, ios, web, and windows. Never mint, enjoy.
